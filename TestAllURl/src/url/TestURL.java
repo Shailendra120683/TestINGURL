@@ -26,7 +26,7 @@ public class TestURL extends Child_Locaters {
 		System.setProperty("webdriver.chrome.driver","D:\\New folder\\chromedriver.exe");
 
 		WebDriver  webDriver= new ChromeDriver();
-		System.out.println("");
+		//System.out.println("");
 		
 		webDriver.manage().window().maximize();
 		
